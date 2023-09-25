@@ -1,0 +1,1 @@
+Write-host "Enter a new username" -ForegroundColor Green
